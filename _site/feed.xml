@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-08T00:17:47+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Flow の Blog</title><subtitle>Flow</subtitle><entry><title type="html">Sound! Euphonium</title><link href="http://localhost:4000/anime/2024/09/07/Sound!-Euphonium.html" rel="alternate" type="text/html" title="Sound! Euphonium" /><published>2024-09-07T23:36:00+08:00</published><updated>2024-09-07T23:36:00+08:00</updated><id>http://localhost:4000/anime/2024/09/07/Sound!%20Euphonium</id><content type="html" xml:base="http://localhost:4000/anime/2024/09/07/Sound!-Euphonium.html"><![CDATA[<p>好崩溃，图床还要搞一下</p>
+<h1 id="有问题">有问题？</h1>
+<h2 id="test">test</h2>
+
+<p><img src="https://p.sda1.dev/19/c17286e1f7d0d6e549ea14ca66932b07/d6cfa1ff17a800485b02c15a85b844528941528.jpg" alt="d6cfa1ff17a800485b02c15a85b844528941528.jpg" /></p>
+
+<p><img src="https://p.sda1.dev/19/6cbd9dabf3539941159a07fe0caac4cd/MPV-_VCB-Studio_ Sound! Euphonium _01__1080p__x264_aac_-00_03_31.jpg" /></p>
+
+<p><img src="https://p.sda1.dev/19/389487bfe655741ac6f9022e471af80c/MPV-_VCB-Studio_ Sound! Euphonium _01__1080p__x264_aac_-00_03_35.jpg" /></p>
+
+<p><img src="https://p.sda1.dev/19/96a7aa31b9958d9b411340b40911cabc/MPV-_VCB-Studio_ Sound! Euphonium _01__1080p__x264_aac_-00_23_29.jpg" /></p>
+
+<p><img src="https://p.sda1.dev/19/ff29f28cff1afad1df50adf93bac889f/MPV-_VCB-Studio_ Sound! Euphonium _05__1080p__x264_aac_-00_12_02.jpg" /></p>
+
+<p><img src="https://p.sda1.dev/19/70c582f43010d67f8e31053faed838ba/MPV-_VCB-Studio_ Sound! Euphonium _05__1080p__x264_aac_-00_12_20.jpg" /></p>
+
+<p><img src="https://p.sda1.dev/19/c5e868106c42d0d1b57dc193ddf5900c/MPV-_VCB-Studio_ Sound! Euphonium _12__1080p__x264_aac_-00_06_46.jpg" /></p>
+
+<p><img src="https://p.sda1.dev/19/bdee79ebda98f1ec4292bebc52b7b13b/MPV-_VCB-Studio_ Sound! Euphonium _12__1080p__x264_aac_-00_17_23.jpg" /></p>
+
+<p><img src="https://p.sda1.dev/19/f8e7ac831fec183bf81a14a8cd9de054/MPV-_VCB-Studio_ Sound! Euphonium _12__1080p__x264_aac_-00_17_40.jpg" /></p>
+
+<p><img src="https://p.sda1.dev/19/9fde9b87604b0194d55a67913475fa10/MPV-_VCB-Studio_ Sound! Euphonium _13__1080p__x264_aac_-00_00_16.jpg" /></p>]]></content><author><name></name></author><category term="Anime" /><summary type="html"><![CDATA[好崩溃，图床还要搞一下 有问题？ test]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2024/09/07/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-09-07T20:16:28+08:00</published><updated>2024-09-07T20:16:28+08:00</updated><id>http://localhost:4000/jekyll/update/2024/09/07/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/09/07/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
