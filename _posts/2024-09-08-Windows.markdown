@@ -2,6 +2,7 @@
 layout: post
 title: "Windows 良心软件"
 date: 2024-09-08 15:52:00 +0800
+authou: Flow
 ---
 
 # - 窗口缩放 - 
@@ -22,10 +23,10 @@ date: 2024-09-08 15:52:00 +0800
 
 # - 种子下载 - 
 
-- Qb
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
 - Motrix
 
 # - 漫画 - 
 
-**[<u>JMComic-qt</u>](https://github.com/tonquer/JMComic-qt)** - 禁漫天堂PC客户端，界面使用QT，功能丰富，使用体验流畅
-**[<u>picacg-qt</u>](https://github.com/tonquer/picacg-qt)** - 哔咔漫画PC客户端，界面使用QT，功能丰富，使用体验流畅
+- **[<u>JMComic-qt</u>](https://github.com/tonquer/JMComic-qt)** - 禁漫天堂PC客户端，界面使用QT，功能丰富，使用体验流畅
+- **[<u>picacg-qt</u>](https://github.com/tonquer/picacg-qt)** - 哔咔漫画PC客户端，界面使用QT，功能丰富，使用体验流畅

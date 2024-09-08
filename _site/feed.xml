@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-08T15:20:13+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Flow の Blog</title><subtitle>Flow</subtitle><entry><title type="html">Sound! Euphonium</title><link href="http://localhost:4000/anime/2024/09/07/SoundEuphonium.html" rel="alternate" type="text/html" title="Sound! Euphonium" /><published>2024-09-07T23:36:00+08:00</published><updated>2024-09-07T23:36:00+08:00</updated><id>http://localhost:4000/anime/2024/09/07/SoundEuphonium</id><content type="html" xml:base="http://localhost:4000/anime/2024/09/07/SoundEuphonium.html"><![CDATA[<p>好崩溃，图床还要搞一下</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-08T22:38:24+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Flow の Blog</title><subtitle>Flow</subtitle><entry><title type="html">HTML基础</title><link href="http://localhost:4000/2024/09/08/HTML-Base.html" rel="alternate" type="text/html" title="HTML基础" /><published>2024-09-08T22:36:00+08:00</published><updated>2024-09-08T22:36:00+08:00</updated><id>http://localhost:4000/2024/09/08/HTML-Base</id><content type="html" xml:base="http://localhost:4000/2024/09/08/HTML-Base.html"><![CDATA[<h1 id="html-是什么">HTML 是什么？</h1>
+
+<p><strong>超文本标记语言</strong>（英语：<strong>H</strong>yper<strong>T</strong>ext <strong>M</strong>arkup <strong>L</strong>anguage，简称：<strong>HTML</strong>）组成了网站的内容。HTML不是一门编程语言，而是一门用于定义结构的标记语言。HTML由元素 (Element) 组成，元素又由标签 (Tag) 和内容 (Content) 组成。</p>
+
+<p>下面是一个 HTML 元素的示例</p>
+
+<p><img src="https://s2.loli.net/2024/09/08/bsICqoM5tkcagiK.webp" alt="My-Cat-Is-Very-Grumpy.webp" /></p>
+
+<p>这个元素的主要部分有：</p>
+
+<ol>
+  <li><strong>开始标签</strong>（Opening tag）：包含元素的名称（本例为 p），被大于号、小于号所包围。表示元素从这里开始或者开始起作用——在本例中即段落由此开始。</li>
+  <li><strong>结束标签</strong>（Closing tag）：与开始标签相似，只是其在元素名之前包含了一个斜杠。这表示着元素的结尾——在本例中即段落在此结束。初学者常常会犯忘记包含结束标签的错误，这可能会产生一些奇怪的结果。</li>
+  <li><strong>内容</strong>（Content）：元素的内容，本例中就是所输入的文本本身。</li>
+  <li><strong>元素</strong>（Element）：开始标签、结束标签与内容相结合，便是一个完整的元素。
+    <h1 id="常用">常用</h1>
+  </li>
+</ol>
+
+<h2 id="标题">标题</h2>
+
+<h2 id="段落">段落</h2>
+
+<h2 id="列表">列表</h2>
+
+<h2 id="链接">链接</h2>
+
+<h2 id="图像">图像</h2>
+
+<h1 id="参考">参考</h1>
+
+<ul>
+  <li><a href="https://zh.wikipedia.org/wiki/HTML">HTML(维基百科)</a></li>
+  <li><a href="https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML 基础(mozilla)</a></li>
+  <li><a href="https://www.runoob.com/html/html-tutorial.html">HTML 教程 - (HTML5 标准)(菜鸟教程)</a></li>
+</ul>]]></content><author><name>Flow</name></author><category term="Code" /><category term="Front-End" /><summary type="html"><![CDATA[HTML 是什么？]]></summary></entry><entry><title type="html">Windows 良心软件</title><link href="http://localhost:4000/2024/09/08/Windows.html" rel="alternate" type="text/html" title="Windows 良心软件" /><published>2024-09-08T15:52:00+08:00</published><updated>2024-09-08T15:52:00+08:00</updated><id>http://localhost:4000/2024/09/08/Windows</id><content type="html" xml:base="http://localhost:4000/2024/09/08/Windows.html"><![CDATA[<h1 id="--窗口缩放--">- 窗口缩放 -</h1>
+
+<ul>
+  <li><strong><a href="https://github.com/Blinue/Magpie"><u>Magpie</u></a></strong> - 主要用于提升游戏画质和让不支持全屏化的游戏也能全屏显示等，低配电脑好帮手</li>
+  <li><strong><a href="https://store.steampowered.com/app/993090/Lossless_Scaling/"><u>LosslessScaling</u></a></strong> - 游戏实时超分补帧神器，低配电脑好帮手，<a href="https://t.me/AWAvenue/786">2.11版本下载</a></li>
+</ul>
+
+<h1 id="--动画--">- 动画 -</h1>
+
+<ul>
+  <li><strong><a href="https://www.dandanplay.com/"><u>弹弹play</u></a></strong><font color="#c00000">(我在用)</font> - 全功能“本地视频+弹幕”播放器，自动识别视频弹幕池，可以用手机远程访问电脑</li>
+</ul>
+
+<h1 id="--视频--">- 视频 -</h1>
+
+<ul>
+  <li><strong><a href="https://mpv.io/"><u>mpv</u></a></strong> - 开源、简约且功能强大的视频播放器</li>
+  <li><strong><a href="https://github.com/mpvnet-player/mpv.net"><u>mpv.net</u></a></strong> - 为MPV集成了图形用户界面，对新手良好</li>
+  <li><strong><a href="https://github.com/hooke007/mpv.net_CM"><u>mpv.net_CM</u></a></strong><font color="#c00000">(我在用)</font> - 为 mpv.net 汉化，对我友好</li>
+  <li><strong><a href="https://potplayer.daum.net/"><u>Potplayer</u></a></strong> - 功能齐全的播放器，初见需要修改配置才能变得好用</li>
+</ul>
+
+<h1 id="--种子下载--">- 种子下载 -</h1>
+
+<ul>
+  <li><a href="https://github.com/qbittorrent/qBittorrent">qBittorrent</a></li>
+  <li>Motrix</li>
+</ul>
+
+<h1 id="--漫画--">- 漫画 -</h1>
+
+<ul>
+  <li><strong><a href="https://github.com/tonquer/JMComic-qt"><u>JMComic-qt</u></a></strong> - 禁漫天堂PC客户端，界面使用QT，功能丰富，使用体验流畅</li>
+  <li><strong><a href="https://github.com/tonquer/picacg-qt"><u>picacg-qt</u></a></strong> - 哔咔漫画PC客户端，界面使用QT，功能丰富，使用体验流畅</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[- 窗口缩放 -]]></summary></entry><entry><title type="html">Sound! Euphonium</title><link href="http://localhost:4000/anime/2024/09/07/SoundEuphonium.html" rel="alternate" type="text/html" title="Sound! Euphonium" /><published>2024-09-07T23:36:00+08:00</published><updated>2024-09-07T23:36:00+08:00</updated><id>http://localhost:4000/anime/2024/09/07/SoundEuphonium</id><content type="html" xml:base="http://localhost:4000/anime/2024/09/07/SoundEuphonium.html"><![CDATA[<p>好崩溃，图床还要搞一下</p>
 <h1 id="有问题">有问题？</h1>
 <h2 id="test">test</h2>
 
