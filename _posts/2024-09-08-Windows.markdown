@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Windows 良心软件"
+date: 2024-09-08 15:52:00 +0800
+---
+
+# - 窗口缩放 - 
+
+- **[<u>Magpie</u>](https://github.com/Blinue/Magpie)** - 主要用于提升游戏画质和让不支持全屏化的游戏也能全屏显示等，低配电脑好帮手
+- **[<u>LosslessScaling</u>](https://store.steampowered.com/app/993090/Lossless_Scaling/)** - 游戏实时超分补帧神器，低配电脑好帮手，[2.11版本下载](https://t.me/AWAvenue/786)，推荐by@[AWAvenue](https://t.me/AWAvenue)
+
+# - 动画 - 
+
+- **[<u>弹弹play</u>](https://www.dandanplay.com/)**<font color="#c00000">(我在用)</font> - 全功能“本地视频+弹幕”播放器，自动识别视频弹幕池，可以用手机远程访问电脑
+
+# - 视频 - 
+
+- **[<u>mpv</u>](https://mpv.io/)** - 开源、简约且功能强大的视频播放器
+- **[<u>mpv.net</u>](https://github.com/mpvnet-player/mpv.net)** - 为MPV集成了图形用户界面，对新手良好
+- **[<u>mpv.net_CM</u>](https://github.com/hooke007/mpv.net_CM)**<font color="#c00000">(我在用)</font> - 为 mpv.net 汉化，对我友好
+- **[<u>Potplayer</u>](https://potplayer.daum.net/)** - 功能齐全的播放器，初见需要修改配置才能变得好用
+
+# - 种子下载 - 
+
+- Qb
+- Motrix
+
+# - 漫画 - 
+
+**[<u>JMComic-qt</u>](https://github.com/tonquer/JMComic-qt)** - 禁漫天堂PC客户端，界面使用QT，功能丰富，使用体验流畅
+**[<u>picacg-qt</u>](https://github.com/tonquer/picacg-qt)** - 哔咔漫画PC客户端，界面使用QT，功能丰富，使用体验流畅
