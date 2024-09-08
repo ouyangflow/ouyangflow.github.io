@@ -7,7 +7,7 @@ date: 2024-09-08 15:52:00 +0800
 # - 窗口缩放 - 
 
 - **[<u>Magpie</u>](https://github.com/Blinue/Magpie)** - 主要用于提升游戏画质和让不支持全屏化的游戏也能全屏显示等，低配电脑好帮手
-- **[<u>LosslessScaling</u>](https://store.steampowered.com/app/993090/Lossless_Scaling/)** - 游戏实时超分补帧神器，低配电脑好帮手，[2.11版本下载](https://t.me/AWAvenue/786)，推荐by@[AWAvenue](https://t.me/AWAvenue)
+- **[<u>LosslessScaling</u>](https://store.steampowered.com/app/993090/Lossless_Scaling/)** - 游戏实时超分补帧神器，低配电脑好帮手，[2.11版本下载](https://t.me/AWAvenue/786)
 
 # - 动画 - 
 
