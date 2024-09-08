@@ -10,13 +10,13 @@ tags:
 ---
 # HTML 是什么？
 
-  **超文本标记语言**（英语：**H**yper**T**ext **M**arkup **L**anguage，简称：**HTML**）组成了网站的内容。HTML不是一门编程语言，而是一门用于定义结构的标记语言。HTML由元素 (Element) 组成，元素又由标签 (Tag) 和内容 (Content) 组成。
+&emsp;&emsp;**超文本标记语言**（英语：**H**yper**T**ext **M**arkup **L**anguage，简称：**HTML**）组成了网站的内容。HTML不是一门编程语言，而是一门用于定义结构的标记语言。HTML由元素 (Element) 组成，元素又由标签 (Tag) 和内容 (Content) 组成。
 
-  下面是一个 HTML 元素的示例
+&emsp;&emsp;下面是一个 HTML 元素的示例
 
 ![My-Cat-Is-Very-Grumpy.webp](https://s2.loli.net/2024/09/08/bsICqoM5tkcagiK.webp)
 
-  这个元素的主要部分有：
+&emsp;&emsp;这个元素的主要部分有：
 
 1. **开始标签**（Opening tag）：包含元素的名称（本例为 p），被大于号、小于号所包围。表示元素从这里开始或者开始起作用——在本例中即段落由此开始。
 2. **结束标签**（Closing tag）：与开始标签相似，只是其在元素名之前包含了一个斜杠。这表示着元素的结尾——在本例中即段落在此结束。初学者常常会犯忘记包含结束标签的错误，这可能会产生一些奇怪的结果。
