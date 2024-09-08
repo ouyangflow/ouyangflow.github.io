@@ -1,9 +1,9 @@
 # Site Settings
 title: Flow の Blog         # 你的博客网站标题
-SEOTitle: FlowBlog
-header-img: 
+SEOTitle: 
+header-img: https://p.sda1.dev/19/3461c3866caec7d09f50d9fec8b6eddb/GFrMV_1W4AEok_M.jpg
 email:        #你的邮箱
-description: Flow
+description: doceamus constitutionem Systematis Mundani.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ouyangflow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
